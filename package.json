@@ -1,0 +1,17 @@
+{
+  "name": "06-shopee-cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@blocknote/core": "^0.14.5",
+    "@blocknote/mantine": "^0.14.6",
+    "@blocknote/react": "^0.14.6"
+  }
+}
